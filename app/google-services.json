@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57047525527",
+    "firebase_url": "https://documentflow-da7a1.firebaseio.com",
+    "project_id": "documentflow-da7a1",
+    "storage_bucket": "documentflow-da7a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57047525527:android:2833959845c22131",
+        "android_client_info": {
+          "package_name": "su.mehsoft.documentflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57047525527-cbdi319kf7ec1mhoali2mmqa09oqkl7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5aIbWd7AUwDJ7zYAJmHUz4fzqXwZLf98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57047525527-cbdi319kf7ec1mhoali2mmqa09oqkl7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
